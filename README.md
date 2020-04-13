@@ -1,2 +1,2 @@
 # Form-consruction-by-user-choice-as-input-and-printing-filled-data
-This repository is quite interesting as here we got a option to choose which type of form we want to make according to our comfort and design. Here i have used PHP and a local web server Apache provide by Xampp .
+This repository is quite interesting as here we got a option to choose which type of form we want to make according to our comfort and design without coding for differnt different forms. Here i have used PHP and a local web server Apache provide by Xampp .So those who want the simulation of this repository take this files and by the help of local web server & then we are ready to creat a basic form by our desire without a code. 
